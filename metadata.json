@@ -1,0 +1,5 @@
+{
+  "name": "VoxConvert",
+  "description": "A professional voice-to-text message converter that refines, formalizes, and reads back your spoken thoughts using Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
